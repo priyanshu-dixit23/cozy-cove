@@ -1,0 +1,165 @@
+{
+  "seven": [
+    {
+      "age":" 7 months",
+      "category":"Golden Retriever",
+      "size":"70 cm",
+      "id":1,
+      "title": "MAYA",
+      "description": "Escaped the old abusive owner",
+      "imgSrc": "https://i.pinimg.com/564x/ab/dd/39/abdd39b3f74a03a534144224698faa37.jpg"
+      
+    },
+
+    {
+      
+      "age":" 2 Years",
+      "category":"Golden Retriever",
+      "size":"40 cm",
+      "id":2,
+      "title": "BLISS",
+      "description": "Found as a puppy",
+      "imgSrc": "https://i.pinimg.com/564x/81/19/96/8119969a06cdfc0c475e0663e3f78553.jpg"
+    },
+   
+
+    {
+      "age":" 7 Years",
+      "category":"Golden Retriever",
+      "size":"78 cm",
+      "id":3,
+      "title": "LISA",
+      "description": "Found sick near a water canal",
+      "imgSrc": "https://www.wsav.com/wp-content/uploads/sites/75/2023/02/Choof.jpg?w=960&h=540&crop=1" 
+    },
+    {
+      "age":" 1 Years ",
+      "category":"Indian Pariah dog",
+      "size":"50 cm",
+      "id":4,
+      "title": "MIKKU",
+      "description": "Found shivering on the road",
+      "imgSrc": "https://st4.depositphotos.com/36128548/40810/i/600/depositphotos_408104168-stock-photo-dog-abandoned-street.jpg"
+      
+    },
+    {
+    
+      "age":"2 Weeks",
+      "category":"Indian Pariah dog",
+      "size":"25 cm",
+      "id":5,
+      "title": "TARA",
+      "description": "Found near our adoption center",
+      "imgSrc": "https://images.thequint.com/thequint%2F2017-07%2F2a62f6df-f9db-4c7c-a58b-9e9306c47b10%2Fstray%20puppy%20hero.jpg?rect=0%2C0%2C2000%2C1125&auto=format%2Ccompress&fmt=webp&width=720"
+    },
+    {
+      "age":" 4 months ",
+      "category":"Indian Pariah dog",
+      "size":"43 cm",
+      "id":6,
+      "title": "BIJLI",
+      "description": "Found near a garbage pile ",
+      "imgSrc": "https://st.depositphotos.com/33674250/57552/i/450/depositphotos_575528916-stock-photo-animal-outdoor-little-dog-sitting.jpg"
+    },
+    {
+      "age":" 5 Years ",
+      "category":"Indian Pariah dog",
+      "size":"63 cm",
+      "id":7,
+      "title": "KAALU",
+      "description": "Found starving in a dark alley",
+      "imgSrc": "https://st.depositphotos.com/65154472/54977/i/600/depositphotos_549776362-stock-photo-female-black-street-dog-dog.jpg"
+    }
+   
+    ,
+    {
+      "age":" 1 months ",
+      "category":"German Shepherd dog",
+      "size":"20 cm",
+      "id":8,
+      "title": "MIVI",
+      "description": "Left on the streets by the owners to starve",
+      "imgSrc": "https://media1.popsugar-assets.com/files/thumbor/XAt04KJG7xjxu97WfoUbQetJH-E=/0x159:2003x2162/fit-in/1584x1980/filters:format_auto():upscale()/2019/08/07/875/n/24155406/9ffb00255d4b2e079b0b23.01360060_.jpg"
+    },
+    {
+      "age":" 6 months ",
+      "category":"German Shepherd dog",
+      "size":"40 cm",
+      "id":9,
+      "title": "HARLEY",
+      "description": "Found lost and starving in a playground",
+      "imgSrc": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*LFS-oAro8b1qmeH9.jpg"
+    }
+  
+    
+  ],
+  "eight":[
+      {
+        "age":" 9 years ",
+        "category":"Golden Retriever",
+        "size":"40 cm",
+        "id":10,
+        "title": "MANOJ",
+        "description": "Left by owners because of being old",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/c/cf/15_year_old_golden_retriever.JPG"
+      },
+      {
+        "age":" 12 years ",
+      "category":"Golden Retriever",
+      "size":"70 cm",
+      "id":11,
+      "title": "MAX",
+      "description": "Found roaming on the roads hungry in the streets",
+      "imgSrc": "https://image.petmd.com/files/styles/978x550/public/2023-03/golden-retriever.jpg?w=1080&q=75"
+      },
+      {
+        "age":" 13 years ",
+        "category":"Indian Pariah dog",
+        "size":"55 cm",
+        "id":12,
+        "title": "BIRJU",
+        "description": "Found drenched in the sewers",
+        "imgSrc": "https://static.wixstatic.com/media/f21c6b_c30cf710db5d4a8e8c04836c62cb85b2~mv2.jpg/v1/fill/w_432,h_648,al_c,q_90/f21c6b_c30cf710db5d4a8e8c04836c62cb85b2~mv2.webp"
+      },
+      {
+        "age":" 11 years ",
+        "category":"Indian Pariah dog",
+        "size":"57 cm",
+        "id":13,
+        "title": "HONEY",
+        "description": "Found injured on the footpath",
+        "imgSrc": "https://breed-assets.wisdompanel.com/dog/street-dog-india/Indian_Street_Dog2.jpg"
+      },
+      {
+        "age":" 12 years 3 months ",
+        "category":"Indian Pariah dog",
+        "size":"50 cm",
+        "id":14,
+        "title": "PIPPY",
+        "description": "Found sick with pneumonia",
+        "imgSrc": "https://proudtohave.weebly.com/uploads/1/9/2/5/19251795/3480570_orig.jpg?861"
+       
+      }
+  ],
+  "sixteen":[
+   {
+    "age":" 17 years  ",
+    "category":"Indian Pariah dog",
+    "size":"55 cm",
+    "id":15,
+    "title": "TEEKU",
+    "description": "Was Left outside our Adoption Center, sick",
+    "imgSrc": "https://dogster.com/wp-content/uploads/2024/03/Indian-Pariah-in-a-stand-still-position_Rajath-Raghav_Shutterstock.jpg"
+   },
+   {
+    "age":" 16 years  ",
+    "category":"Indian Pariah dog",
+    "size":"65 cm",
+    "id":16,
+    "title": "DIVINE",
+    "description": "Found wounded after a dog fight",
+    "imgSrc": "https://images.saymedia-content.com/.image/t_share/MTc0OTY3OTU3MzM0NjY1MTg0/10-reason-pariah-desi-dogs-are-the-best-choice-for-senior-indian-citizens.jpg"
+   }
+    
+  ]
+}

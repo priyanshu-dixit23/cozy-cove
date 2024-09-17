@@ -1,0 +1,153 @@
+/* Footer.css */
+
+footer {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 40px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    position: relative;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5);
+    border-top: 5px solid #ff4757;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .footer-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .footer-quotes {
+    flex: 1;
+    padding: 0 20px;
+    text-align: left;
+  }
+  
+  footer img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: -40px;
+    margin-left: -10px;
+    margin-top: -50px;
+    transition: transform 0.5s ease-in-out, box-shadow 0.3s ease-in-out;
+    /* border: 3px solid #ff4757; */
+  }
+  
+  footer img:hover {
+    transform: scale(1.2);
+    box-shadow: 0 0 15px rgba(255, 71, 87, 0.7);
+  }
+  
+  footer h2 {
+    margin: 10px 0;
+    font-size: 26px;
+    border-bottom: 2px solid #ff4757;
+    padding-bottom: 5px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  footer h2:hover {
+    color: #ff4757;
+  }
+  
+  footer p {
+    margin: 5px 0;
+    font-size: 15px;
+    transition: color 0.3s ease-in-out;
+    text-align: center;
+  }
+  
+  footer p:hover {
+    color: #ff4757;
+  }
+  
+  footer aside h2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-bottom: 2px solid #ff4757;
+    padding-bottom: 5px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  footer aside h2:hover {
+    color: #ff4757;
+  }
+  
+  footer aside article {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  footer aside article a {
+    font-size: 28px;
+    color: white;
+    transition: color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    border: 2px solid transparent;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  
+  footer aside article a:hover {
+    color: #ff4757;
+    transform: rotate(360deg);
+    border: 2px solid #ff4757;
+  }
+  
+  footer aside p {
+    font-size: 15px;
+    margin: 3px 0;
+  }
+  
+  .footer-quotes h2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-bottom: 2px solid #ff4757;
+    padding-bottom: 5px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .footer-quotes p {
+    font-size: 16px;
+    font-style: italic;
+    margin: 10px 0;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .footer-quotes p:hover {
+    color: #ff4757;
+  }
+  
+  .back-to-top {
+    position: absolute;
+    right: 50px;
+    bottom: 20px;
+    font-size: 28px;
+    color: white;
+    transition: color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    border: 2px solid transparent;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  
+  .back-to-top:hover {
+    color: #ff4757;
+    transform: translateY(-5px) rotate(180deg);
+    border: 2px solid #ff4757;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

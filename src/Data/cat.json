@@ -1,0 +1,37 @@
+{
+    "cats":[
+        {
+            "age":" 1 year 2 months",
+            "size":"14 cm",
+            "id":1,
+            "title": "SNOWY",
+            "description": "Found sick near a water canal",
+            "imgSrc": "https://www.caleidoscope.in/wp-content/uploads/2014/11/Bengal_Cat.jpg"
+        },
+        {
+            "age":" 7 months",
+      "size":"12 cm",
+      "id":2,
+      "title": "WHISKERS",
+      "description": "Found wounded after a fight",
+      "imgSrc": "https://koala.sh/api/image/v2-63i76-v6rtn.jpg?width=1024&height=1024&dream"
+        }
+        ,{
+            "age":" 1 year 4 months",
+      "size":"18 cm",
+      "id":3,
+      "title": "FLUFFY",
+      "description": "Found sick with fever",
+      "imgSrc": "https://i.pinimg.com/564x/e9/96/61/e99661721e1c294498b723009aaf2064.jpg"
+        },{
+            "age":" 11 months", 
+      "size":"14 cm",
+      "id":4,
+      "title": "SLEEPY",
+      "description": "The last owner couldn't take proper care of her",
+      "imgSrc": "https://assets.telegraphindia.com/telegraph/89d13067-65d6-45e5-9e68-55f75b759971.jpg"
+        }
+        
+        
+    ]
+}

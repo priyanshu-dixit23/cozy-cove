@@ -1,0 +1,67 @@
+/* Header.css */
+
+.header-container {
+    width: 100%;
+    background-color: #ced9ef; /* Dark background color */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    /* padding: 1rem 1rem; */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    animation: slideIn 0.5s ease-in-out;
+  }
+  
+  .logo {
+    height: 100px;
+    margin-top: -4px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .logo:hover {
+    transform: scale(1.1);
+  }
+  
+  .nav-button {
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+    color: white;
+  }
+  
+  .nav-button:hover {
+    transform: scale(1.1);
+    background-color: #3b3f47; /* Slightly lighter dark color on hover */
+  }
+  
+  .menu-button {
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  }
+  
+  .menu-button:hover {
+    transform: scale(1.1);
+    background-color: #3b3f47; /* Slightly lighter dark color on hover */
+  }
+  
+  .placeholder-text {
+    flex-grow: 1;
+  }
+  
+  @keyframes slideIn {
+    0% {
+      transform: translateY(-20px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  /* Dropdown Menu Styles */
+  .chakra-menu__menuitem {
+    color: #282c34;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .chakra-menu__menuitem:hover {
+    background-color: #edf2f7; /* Light gray background on hover */
+  }
+  
